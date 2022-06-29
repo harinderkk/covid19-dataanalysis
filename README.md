@@ -1,4 +1,4 @@
-# covid19-dataanalysis
+
 
 This project analysis the follwing information from covid 19 data provided at https://ourworldindata.org/covid-deaths
 (from January 1, 2020 to February 8, 2022):
